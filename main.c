@@ -13,7 +13,7 @@ int main() {
 	printf("kasaya verilen miktari girin: ");
 	scanf("%f",&para);
 	
-	int ustkrs=(int)((para-tutar)*100.0+0.5  );
+	int ustkrs=(int)((para-tutar)*100.0+0.5);
 	
 	printf("********************************************\n");
 	
